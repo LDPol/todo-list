@@ -1,6 +1,5 @@
-# Lista zadañ do wykonania
-Prosta aplikacja do zarz¹dzania codziennymi zadaniami
-## W³aœciwoœci
-* Lista codziennych zadañ
-* Lista tygodniowych zadañ
-* Lista miesiêcznych zadañ
+# TODO list
+A simple app to manage your daily tasks.
+It uses HTML5 and CSS3.
+## Features
+* List of daily tasks
